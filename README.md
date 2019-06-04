@@ -13,5 +13,5 @@ to detect that you are running it in a VM.
 
 
 ### Credits 
-Almost entire script is derived from https://github.com/OmniSharp/omnisharp-node-client.git
-> I  just made  some  edits to make it work for me.
+Almost entire script is derived from https://github.com/hfiref0x/VBoxHardenedLoader⎋
+> I just made some edits to make it work for me.
